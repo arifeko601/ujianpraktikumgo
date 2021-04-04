@@ -1,0 +1,2 @@
+# ujianpraktikumgo
+ujian praktikum golang
